@@ -1,19 +1,19 @@
 QAnimatedGridLayout
 ===================
 
-Animasyonlu Qt ızgara layout'udur. İstenen hücre animasyon ile büyütülür ve ızgara şekli animasyon ile geri getirilir.
+Animasyonlu Qt ızgara layout'udur. İstenen hücre animasyon ile büyütülür ve ızgara animasyon ile eski haline getirilir.
 
-Buradaki örnek uygulamanın bir video'suna şurada : http://youtu.be/FLRmCqM-Hn4
+Örnek bir video şurada : http://youtu.be/FLRmCqM-Hn4
 
 Lisansı değiştirilmiş BSD'dir.
 
 ---
 
-Animated Qt grid layout, which enlarges one of the desired cell and restore all back with animation.
+Animated Qt grid layout, which enlarges one of the desired cell and restore all cells back with animation.
 
 You can find a video of this example application : http://youtu.be/FLRmCqM-Hn4
 
-License is Modified BSD License.
+License is Modified BSD.
 
 ---
 
